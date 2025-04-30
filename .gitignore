@@ -1,0 +1,18 @@
+#IDE
+**/.idea/
+**/.vscode/
+
+# Python
+**/__pycache__/
+**/venv/
+**/cpnav.egg-info/
+**/.pybuild/
+**/.pytest_cache/
+
+
+# Build
+**/log
+**/install
+/src/team-14/build/cpnav
+# MacOS
+*.DS_Store
